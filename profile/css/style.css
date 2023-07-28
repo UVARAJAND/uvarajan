@@ -204,6 +204,17 @@ img{
         transition:linear 0.1s;
         border-radius: 10px;
     }
+    @keyframes border_change{
+        0%{
+            box-shadow: 0 0 30px white;
+        }
+       50%{
+        box-shadow: 0 0  40px white;
+       }
+        100%{
+            box-shadow: 0 0 30px white;
+        }
+    } 
     .container{
         background: linear-gradient(120deg,aqua,grey);
         animation: border_change 1s ease-in-out infinite;
