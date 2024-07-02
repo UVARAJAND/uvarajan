@@ -18,7 +18,7 @@ body{
     font-family: "Jost", sans-serif;
     background-color: black;
     flex-direction: column;
-    /* user-select: none; */
+    user-select: none;
 }
 .loader{
     display: flex;
@@ -819,7 +819,7 @@ body{
     font-family: "Jost", sans-serif;
     background-color: black;
     flex-direction: column;
-    /* user-select: none; */
+    user-select: none;
 }
 .loader{
     display: flex;
