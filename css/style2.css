@@ -520,6 +520,12 @@ a:visited{
     width:130px;
     font-size: 17px;
 }
+.skill_with_contributer li{
+    /* background-color: antiquewhite; */
+    margin-top: 10px;
+    width:130px;
+    font-size: 17px;
+}
 .contributer{
     background-color: rgb(3, 82, 21);
     border-style:solid;
