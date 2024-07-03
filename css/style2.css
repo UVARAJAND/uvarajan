@@ -422,7 +422,7 @@ a:visited{
     /* box-shadow: 0 0 5px rgb(0, 255, 89); */
     /* background-color: aqua; */
     /* backdrop-filter: blur(10px); */
-    box-shadow: 0 0 3px rgb(0, 255, 89);
+    box-shadow: 2px 0px 0px 5px rgb(0, 255, 89);
 }
 .project:hover{
     border-color: rgb(53, 248, 170);
@@ -649,9 +649,9 @@ a:visited{
     align-items: center;
     /* background-color: green; */
     height:50px;
-    width:80%;
+    width:100%;
 }
-.skills_topic{
+.skills_topic span{
     font-size: 30px;
     font-weight: 700;
     text-shadow: 0 0 4px rgb(53, 248, 170);
@@ -1231,7 +1231,7 @@ a:visited{
     /* box-shadow: 0 0 5px rgb(0, 255, 89); */
     /* background-color: aqua; */
     /* backdrop-filter: blur(10px); */
-    box-shadow: 0 0 3px rgb(0, 255, 89);
+    box-shadow: 2px 0px 0px 2px rgb(0, 255, 89);
 }
 .project:hover{
     border-color: rgb(53, 248, 170);
